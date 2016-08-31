@@ -1,0 +1,7 @@
+python sample.py --init_dir=myModel/model_modify --length=1000 --seed=1 --start_text="Trump" --temperature=0.5
+Sampled text is:
+Trumper in her more the brount a draes the ast and the and said the of the was her spound the sat the said the Trove the still all stall. The the came that the boye his a pores down and the bost and the would not wat a sat a lasted to the said. She said.
+
+You was the his light. She were stend she say to the door, and her said and his said. His blong the said. I ront not be his beer in the rears the ranging her sulled a all and she was the sat the bowt to he was dragen his standed his said and the did hind shake of where a blet with the see and like and the ranger and stear his for the son be a stall the prother sight the she was the cround and do was the boon as the swack the more terted from the preath down him the stapt, the with a was her brother say a and stirk and pit with his hing should stast and the son the kees the was see the boor said. The stord was and and his sick and was the cropt of her of the boon she said.
+
+I so the like a saids to cound the gord a the said. He sill

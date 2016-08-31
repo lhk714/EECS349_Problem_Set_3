@@ -1,0 +1,5 @@
+python sample.py --init_dir=myModel/model_modify2 --length=1000 --seed=1 --start_text="Trump" --temperature=0.5
+Sampled text is:
+Trump of seemed the singers strainged the rast he still of the stars and the boy was the gray. When that would send the stand and starting at the cambers as he had been a kings as the pared. I said. I would not thing the Red Kingste than and his soft talled the stell of the king had did not see the way the man when the sing that the looked to the prapped before the wind and still honest as the singers should be the horse and the heart as the word and white bander, and the arrangled that the house and should be the lords, and the steel beside the fire for a praned. I will have the riders and said.
+
+You thought the sept to see. The fiors began to boun the differed better to me the hiast before the more that she had seen it is the saw that he was staring and surd ride the long from the fire, the start as the boy is a man shaded beliese and proud would not see was a beat of the Lannister. The crows and sword of the king as he had been the fire and sowned as they was she for a courtely. I

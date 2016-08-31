@@ -1,0 +1,21 @@
+{
+  "best_model": "myModel/model_modify1/best_model/model-93350", 
+  "best_valid_ppl": 5.112600803375244, 
+  "encoding": "utf-8", 
+  "latest_model": "myModel/model_modify1/save_model/model-93350", 
+  "params": {
+    "batch_size": 64, 
+    "dropout": 0.5, 
+    "embedding_size": 0, 
+    "hidden_size": 128, 
+    "input_dropout": 0.0, 
+    "learning_rate": 0.002, 
+    "max_grad_norm": 5.0, 
+    "model": "rnn", 
+    "num_layers": 1, 
+    "num_unrollings": 12, 
+    "vocab_size": 69
+  }, 
+  "test_ppl": 5.127685070037842, 
+  "vocab_file": "myModel/model_modify1/vocab.json"
+}

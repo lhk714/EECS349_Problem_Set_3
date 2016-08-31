@@ -1,0 +1,209 @@
+Loading and preprocessing data
+
+Initializing neural network
+
+Start training
+
+====================Epoch 0====================
+Train loss 1.22805514824 accuracy 0.865818181818
+Valid loss 0.529876816935 accuracy 0.8624
+
+====================Epoch 1====================
+Train loss 0.398362630403 accuracy 0.908963636364
+Valid loss 0.333078779728 accuracy 0.9014
+
+====================Epoch 2====================
+Train loss 0.288583687976 accuracy 0.925145454545
+Valid loss 0.274634082646 accuracy 0.9208
+
+====================Epoch 3====================
+Train loss 0.241677520856 accuracy 0.934836363636
+Valid loss 0.243415462779 accuracy 0.928
+
+====================Epoch 4====================
+Train loss 0.212136636057 accuracy 0.942
+Valid loss 0.223159099653 accuracy 0.934
+
+====================Epoch 5====================
+Train loss 0.190698999321 accuracy 0.946909090909
+Valid loss 0.20858592739 accuracy 0.9388
+
+====================Epoch 6====================
+Train loss 0.173956973326 accuracy 0.951872727273
+Valid loss 0.197355384852 accuracy 0.9426
+
+====================Epoch 7====================
+Train loss 0.160272021137 accuracy 0.955963636364
+Valid loss 0.188258926905 accuracy 0.9434
+
+====================Epoch 8====================
+Train loss 0.148723535426 accuracy 0.959109090909
+Valid loss 0.180580333285 accuracy 0.9458
+
+====================Epoch 9====================
+Train loss 0.138726861207 accuracy 0.962018181818
+Valid loss 0.173913515866 accuracy 0.95
+
+====================Epoch 10====================
+Train loss 0.129906014933 accuracy 0.9646
+Valid loss 0.168128915808 accuracy 0.952
+
+====================Epoch 11====================
+Train loss 0.1220526553 accuracy 0.967145454545
+Valid loss 0.163029851699 accuracy 0.9534
+
+====================Epoch 12====================
+Train loss 0.115007152312 accuracy 0.969090909091
+Valid loss 0.158585988554 accuracy 0.955
+
+====================Epoch 13====================
+Train loss 0.108617558677 accuracy 0.970927272727
+Valid loss 0.154619470832 accuracy 0.9558
+
+====================Epoch 14====================
+Train loss 0.102776462129 accuracy 0.972709090909
+Valid loss 0.151125747296 accuracy 0.9574
+
+====================Epoch 15====================
+Train loss 0.0974259880509 accuracy 0.974272727273
+Valid loss 0.147978465832 accuracy 0.9584
+
+====================Epoch 16====================
+Train loss 0.0924800127418 accuracy 0.975727272727
+Valid loss 0.14524255344 accuracy 0.9594
+
+====================Epoch 17====================
+Train loss 0.087898320409 accuracy 0.976963636364
+Valid loss 0.142851333502 accuracy 0.9606
+
+====================Epoch 18====================
+Train loss 0.0836370325385 accuracy 0.978109090909
+Valid loss 0.140789430352 accuracy 0.9612
+
+====================Epoch 19====================
+Train loss 0.0796679629971 accuracy 0.979127272727
+Valid loss 0.13902533429 accuracy 0.9614
+
+====================Epoch 20====================
+Train loss 0.0759533439554 accuracy 0.979927272727
+Valid loss 0.137502689413 accuracy 0.9622
+
+====================Epoch 21====================
+Train loss 0.0724795017596 accuracy 0.980981818182
+Valid loss 0.136069771737 accuracy 0.9632
+
+====================Epoch 22====================
+Train loss 0.0692243359885 accuracy 0.982072727273
+Valid loss 0.134790558129 accuracy 0.964
+
+====================Epoch 23====================
+Train loss 0.0661684144263 accuracy 0.983054545455
+Valid loss 0.133661737232 accuracy 0.9646
+
+====================Epoch 24====================
+Train loss 0.0632881520653 accuracy 0.983745454545
+Valid loss 0.132667912465 accuracy 0.9654
+
+====================Epoch 25====================
+Train loss 0.0605760846826 accuracy 0.984581818182
+Valid loss 0.131776893089 accuracy 0.9656
+
+====================Epoch 26====================
+Train loss 0.0580093526882 accuracy 0.985345454545
+Valid loss 0.130983957721 accuracy 0.966
+
+====================Epoch 27====================
+Train loss 0.0555860943339 accuracy 0.986
+Valid loss 0.130280472014 accuracy 0.9664
+
+====================Epoch 28====================
+Train loss 0.0532860912373 accuracy 0.986636363636
+Valid loss 0.129609272409 accuracy 0.9666
+
+====================Epoch 29====================
+Train loss 0.0511002232201 accuracy 0.987381818182
+Valid loss 0.129012857013 accuracy 0.9668
+
+====================Epoch 30====================
+Train loss 0.0490259460963 accuracy 0.987927272727
+Valid loss 0.128484359807 accuracy 0.9672
+
+====================Epoch 31====================
+Train loss 0.0470534702459 accuracy 0.988581818182
+Valid loss 0.12803923097 accuracy 0.9674
+
+====================Epoch 32====================
+Train loss 0.0451776918281 accuracy 0.989290909091
+Valid loss 0.127642464255 accuracy 0.9674
+
+====================Epoch 33====================
+Train loss 0.0433943027384 accuracy 0.989781818182
+Valid loss 0.127298337779 accuracy 0.9674
+
+====================Epoch 34====================
+Train loss 0.041691188126 accuracy 0.990236363636
+Valid loss 0.127055501306 accuracy 0.9674
+
+====================Epoch 35====================
+Train loss 0.0400694059331 accuracy 0.990745454545
+Valid loss 0.126828330165 accuracy 0.9682
+
+====================Epoch 36====================
+Train loss 0.0385254925314 accuracy 0.991163636364
+Valid loss 0.126655881256 accuracy 0.9688
+
+====================Epoch 37====================
+Train loss 0.0370538260505 accuracy 0.991763636364
+Valid loss 0.126593863152 accuracy 0.9692
+
+====================Epoch 38====================
+Train loss 0.0356413276567 accuracy 0.992145454545
+Valid loss 0.126547020495 accuracy 0.9692
+
+====================Epoch 39====================
+Train loss 0.0342950312658 accuracy 0.992545454545
+Valid loss 0.126531067661 accuracy 0.9694
+
+====================Epoch 40====================
+Train loss 0.0330092693771 accuracy 0.992927272727
+Valid loss 0.126567986562 accuracy 0.9696
+
+====================Epoch 41====================
+Train loss 0.0317823519252 accuracy 0.993309090909
+Valid loss 0.12658947835 accuracy 0.9696
+
+====================Epoch 42====================
+Train loss 0.0306083799134 accuracy 0.993672727273
+Valid loss 0.126706468794 accuracy 0.9694
+
+====================Epoch 43====================
+Train loss 0.0294828218888 accuracy 0.994072727273
+Valid loss 0.126804221546 accuracy 0.9694
+
+====================Epoch 44====================
+Train loss 0.02840627243 accuracy 0.9944
+Valid loss 0.126984082101 accuracy 0.9692
+
+====================Epoch 45====================
+Train loss 0.0273733190363 accuracy 0.994672727273
+Valid loss 0.127154755964 accuracy 0.969
+
+====================Epoch 46====================
+Train loss 0.0263902129638 accuracy 0.995018181818
+Valid loss 0.127369633376 accuracy 0.9692
+
+====================Epoch 47====================
+Train loss 0.0254493369256 accuracy 0.9952
+Valid loss 0.127606683315 accuracy 0.9696
+
+====================Epoch 48====================
+Train loss 0.0245428282938 accuracy 0.995472727273
+Valid loss 0.127904266904 accuracy 0.9698
+
+====================Epoch 49====================
+Train loss 0.0236846775996 accuracy 0.995727272727
+Valid loss 0.128172776886 accuracy 0.97
+
+====================Training finished====================
+
+Test loss 0.102274782782 accuracy 0.973

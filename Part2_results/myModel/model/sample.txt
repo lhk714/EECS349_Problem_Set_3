@@ -1,0 +1,11 @@
+python sample.py --init_dir=myModel/model --length=1000 --seed=1 --start_text="Trump" --temperature=0.5
+Sampled text is:
+Trump said and stared backward. I can see it.
+
+How dare you to see your sister?
+
+The throne who will not have a things a captain of the river and stolen children in a man who would be a dozen sword in the morrow.
+
+As if it was the fire, the boy is Lysa stones, the man is what you have men in my window men in the shadow of my life, I will not kill them to your words against the way the door with your thing to the thin and the man so the narrow sea. The girl is weeps to come to the Lannisters. I have the sight of your party way to say the Lannisters in the Lannisters, but the first time in the realm. It was the man who would have been a big for an off to the body.
+
+The right she thought the great head and she had been the great armor of the woodharp stabbed and sleeping from the first time to the bannermen in the face of the first time he was the solar, with a silver beauty smelled of his throat and the night she had a moment and the king and moving and slimped him as much of their go
